@@ -1,0 +1,19 @@
+{
+  "name": "ourcourses-elearning-web-app",
+  "version": "1.0.0",
+  "description": "This is my final year project , starting on 18th Nov 2020.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamwaseemsh/ourcourses-elearning-web-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamwaseemsh/ourcourses-elearning-web-app/issues"
+  },
+  "homepage": "https://github.com/iamwaseemsh/ourcourses-elearning-web-app#readme"
+}
